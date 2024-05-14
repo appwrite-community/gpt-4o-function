@@ -1,6 +1,6 @@
 # 🤖 Node Prompt ChatGPT Function
 
-Ask question, and let OpenAI GPT-3.5-turbo answer.
+Ask question, and let OpenAI GPT-4o answer.
 
 ## 🧰 Usage
 
